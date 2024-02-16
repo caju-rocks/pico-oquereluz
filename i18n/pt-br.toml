@@ -1,0 +1,56 @@
+[tagged_in]
+other = "Tag"
+
+[other_tags]
+other = "Outras tags"
+
+[read_more]
+other = "Leia mais"
+
+[name]
+other = "Nome"
+
+[your_message]
+other = "Sua mensagem"
+
+[cancel]
+other = "Cancelar"
+
+[submit]
+other = "Enviar"
+
+[previous]
+other = "Anterior"
+
+[next]
+other = "Próximo"
+
+[back]
+other = "Voltar"
+
+[contact]
+other = "Contato"
+
+[contact_email]
+other = "Contato via email"
+
+[latest_post]
+other = "Último post"
+
+[reading_time]
+other = "leitura de {{ .ReadingTime }} min"
+
+[home]
+other = "Página Inicial"
+
+[about]
+other = "Sobre"
+
+[blog]
+other = "Blog"
+
+[present]
+other = "Present"
+
+[required_fields]
+other = "Campos obrigatórios"
