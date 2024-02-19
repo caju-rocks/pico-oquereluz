@@ -50,7 +50,7 @@ other = "Sobre"
 other = "Blog"
 
 [present]
-other = "Present"
+other = "Atual"
 
 [required_fields]
 other = "Campos obrigatórios"
